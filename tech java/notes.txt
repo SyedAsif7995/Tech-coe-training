@@ -1,0 +1,20 @@
+new num=old num|(1<<k) if k=1=>45|(1<<!)
+hybrid ,it combines all types of inheritance
+if we declare static,then we modify a method in one class it will effect to others also
+abstract method we just declare ,no need of any code
+concrete method need to write code
+stream has two types output stream,inputstream
+byte stream reads data byte by byte
+In the threads the output will be contionously changesS
+multhreading ,join method helps to make second excution to wait until second excution to complete
+Excutor service :1)Manage a poll of threads to excute tasks asynchrnously
+                  2)Provides methods to submit tasks and control their excution
+Callable is similar to runnable (capable of excuting threads) but it can throw exceptions and return a value
+Countdown latch :its a set of function which will block the thread until a loop excuted
+
+
+Maven:is a distribution of apache
+it is build automation tool
+it is used to build java project
+it is used to manage project
+
