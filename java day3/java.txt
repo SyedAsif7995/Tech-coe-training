@@ -1,0 +1,23 @@
+Interface A{
+//method declaration
+}
+Class B implements A{
+Method logic/implementation
+}
+method overloading is called as compile time program
+method overriding is called as run time program
+
+
+if the method is declared extra in child class it will not excute
+class we called as driver
+In java.sql have an connection interface
+Connection interface is implemented by driver
+CRUD=create,read,update,delete;
+Jakarta persistance APi
+Jakarta persistence API is a standard API for persistence in java
+Jpa is nothing which keep all logics required to mysql
+hybernet which excute the commamds
+Meta data is data about data
+Entity manager factory helps in connection
+Entity manager helps in CRUD
+em is used sending the data,it is used for every query
